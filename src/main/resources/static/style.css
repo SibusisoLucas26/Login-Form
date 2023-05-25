@@ -1,0 +1,29 @@
+
+
+h1 {
+	color:rgb(53, 132, 228);
+	text-align:center;
+	border:4px solid #1c71d8;
+	background-color:rgb(255, 255, 255)}
+
+form {
+	text-align:center;
+}
+
+body { 
+	background-color:white;
+}
+
+
+input[type=text]
+     [type=passwor]
+
+{
+	border:4px solid #57e389;
+	border-radius:4px;
+	background-color: #fff8f8;
+}
+
+input[type=submit]{
+	background-color: green;
+}
